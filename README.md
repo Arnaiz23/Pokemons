@@ -3,3 +3,7 @@
 ## Content
 
 This is a frontend project that consists in a pokedex
+
+## API
+
+For the API, I use the public [PokeApi](https://pokeapi.co/)
